@@ -1,0 +1,12 @@
+# main links links
+main:
+  - title: "Blog"
+    url: /blog/
+
+
+  - title: "Course and Certifications"
+    url: /courses_and_certifications/
+
+
+#  - title: "Road trip"
+#    url: /travel/
