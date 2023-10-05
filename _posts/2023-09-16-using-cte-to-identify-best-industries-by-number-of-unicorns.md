@@ -2,6 +2,9 @@
 In this project, I will be working with data from investment firm to analyze trends in high-growth companies. The goal is to identify industries which are producing the highest valuations and the rate at which new high-value companies are emerging. This data will provide insightful information to give investment firms a competitive insight about the ongoing industry trends and how they should structure their portfolio looking forward.
 </p>
 
+
+### Skills : SQL, data cleaning, data exploration, common table expression
+
 The dataset tables are as follows:
 
 ## dates

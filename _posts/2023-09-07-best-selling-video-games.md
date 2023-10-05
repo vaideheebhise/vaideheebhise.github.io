@@ -12,6 +12,8 @@ tags:
 <p>Let's begin by looking at some of the top selling video games of all time!</p>
 
 
+### Skills :  SQL, Data Exploration, Data cleaning, SQL Join, SQL Sub query
+
 ```sql
 %%sql
 postgresql:///games

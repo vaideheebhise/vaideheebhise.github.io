@@ -2,6 +2,9 @@
 <p>In this project I have worked with data provided by the United States Social Security Administration, which lists first names along with the number and sex of babies they were given to in each year. For processing speed purposes, we've limited the dataset to first names which were given to over 5,000 American babies in a given year. Our data spans 101 years, from 1920 through 2020.</p>
 
 
+### Skills :  SQL, Data Exploration, Data Cleaning and Manipulation
+
+
 <h3 id="baby_names"><code>baby_names</code></h3>
 <table>
 <thead>

@@ -15,7 +15,7 @@ author_profile: true
 
 # Certification 
  - AWS Certified Cloud Practitioner
- - Data Analyst in SQL
+ - Certified Data Analyst Associate ( [Credential](https://www.datacamp.com/certificate/DAA0013136073393) )
  
 
 ***

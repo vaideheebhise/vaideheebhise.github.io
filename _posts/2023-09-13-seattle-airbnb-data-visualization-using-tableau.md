@@ -1,5 +1,8 @@
 <p>In this project, I used 2016 airbnb data from seattle and visualize it using Tableau to get deeper insights into pricing trends. </p>
 
+
+### Skills : Tableau, SQL, Visulization, Data Exlporation, Data Cleaning
+
 The following information is presented in the dashboard:
  - Price per zipcode 
  - Avg Price per bedroom

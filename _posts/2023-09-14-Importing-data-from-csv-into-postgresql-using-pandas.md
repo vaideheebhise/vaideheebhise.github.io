@@ -4,6 +4,8 @@ postgresql on a docker container using python libraries pandas, sqlalchemy
 </p>
 
 
+### Skills : postgresql, python, pandas, csv, sql
+
 ## How to import a CSV file to Postgresql database?
 To start with, you will need to download a csv data file in your laptop. We wiil be importing that data into postgresql database which is running in a docker container. At the end we will be executing some simple sql queries on that database.
 
