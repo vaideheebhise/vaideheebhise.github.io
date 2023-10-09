@@ -20,7 +20,7 @@ requiring data exploration, data cleaning and manipulation using sql, pandas lib
 microsoft excel, jupyter notebooks. 
 
 If my profile seems a good fit, please feel free to reach out to me @
-vaideeebhise94@gmail.com
+vaidehibhise94@gmail.com
 
 **Skills** : Data Analyst, SQL, Python, Tableau, Power BI, Microsoft Excel, Jupyter
 
