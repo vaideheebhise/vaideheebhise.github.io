@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://vaideheebhise.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://vaideheebhise.github.io/" rel="alternate" type="text/html" /><updated>2023-10-04T23:51:33-07:00</updated><id>https://vaideheebhise.github.io/feed.xml</id><title type="html">Vaidehee Bhise</title><subtitle>Vaidehee Bhise</subtitle><author><name>Vaidehee Bhise</name><email>vaidehibhise94@gmail.com</email></author><entry><title type="html">Vivendo Food Claim Case Study</title><link href="https://vaideheebhise.github.io/vivendo-food-claim-case-study/" rel="alternate" type="text/html" title="Vivendo Food Claim Case Study" /><published>2023-09-24T00:00:00-07:00</published><updated>2023-09-24T00:00:00-07:00</updated><id>https://vaideheebhise.github.io/vivendo-food-claim-case-study</id><content type="html" xml:base="https://vaideheebhise.github.io/vivendo-food-claim-case-study/">&lt;p&gt;In this project i have worked on a fast food chain in Brazil named vivendo with over 200 outlets. Customers often claim compensation from the company for food poisoning. The legal team processes these claims. The legal team has offices in four locations. The legal team wants to improve how long it takes to reply to customers and close claims.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-10-08T17:36:17-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Vaidehee Bhise</title><subtitle>Vaidehee Bhise</subtitle><author><name>Vaidehee Bhise</name><email>vaidehibhise94@gmail.com</email></author><entry><title type="html">Vivendo Food Claim Case Study</title><link href="http://localhost:4000/vivendo-food-claim-case-study/" rel="alternate" type="text/html" title="Vivendo Food Claim Case Study" /><published>2023-09-24T00:00:00-07:00</published><updated>2023-09-24T00:00:00-07:00</updated><id>http://localhost:4000/vivendo-food-claim-case-study</id><content type="html" xml:base="http://localhost:4000/vivendo-food-claim-case-study/">&lt;p&gt;In this project i have worked on a fast food chain in Brazil named vivendo with over 200 outlets. Customers often claim compensation from the company for food poisoning. The legal team processes these claims. The legal team has offices in four locations. The legal team wants to improve how long it takes to reply to customers and close claims.
 The analysis is provided for the legal team as team wants to improve the time it takes to reply to customers and close the claims. I used pgadmin for validation and cleaning of data. Tableau is used for the data visualization purpose.Here i listed each task performed in the question, answer format.&lt;/p&gt;
 
 &lt;h3 id=&quot;skills--tableau-sql-excel-data-cleaning-data-exploration&quot;&gt;Skills : Tableau, SQL, Excel, Data cleaning, Data Exploration&lt;/h3&gt;
@@ -80,7 +80,7 @@ NATAL have average time to close 185.9 and maximum time to close is 361 days and
 
 &lt;iframe seamless=&quot;&quot; frameborder=&quot;0&quot; src=&quot;https://public.tableau.com/views/foodclaims_time_to_closevslocationplot/time_to_close_vs_location?:embed=yes&amp;amp;:display_count=yes&amp;amp;:showVizHome=no&quot; width=&quot;500&quot; height=&quot;300&quot; scrolling=&quot;yes&quot;&gt;&lt;/iframe&gt;
 
-&lt;iframe seamless=&quot;&quot; frameborder=&quot;0&quot; src=&quot;https://public.tableau.com/views/foodclaims_time_to_closevslocationplot/Sheet5?:embed=yes&amp;amp;:display_count=yes&amp;amp;:showVizHome=no&quot; width=&quot;1000&quot; height=&quot;650&quot; scrolling=&quot;yes&quot;&gt;&lt;/iframe&gt;</content><author><name>Vaidehee Bhise</name><email>vaidehibhise94@gmail.com</email></author><summary type="html">In this project i have worked on a fast food chain in Brazil named vivendo with over 200 outlets. Customers often claim compensation from the company for food poisoning. The legal team processes these claims. The legal team has offices in four locations. The legal team wants to improve how long it takes to reply to customers and close claims. The analysis is provided for the legal team as team wants to improve the time it takes to reply to customers and close the claims. I used pgadmin for validation and cleaning of data. Tableau is used for the data visualization purpose.Here i listed each task performed in the question, answer format.</summary></entry><entry><title type="html">Using Cte To Identify Best Industries By Number Of Unicorns</title><link href="https://vaideheebhise.github.io/using-cte-to-identify-best-industries-by-number-of-unicorns/" rel="alternate" type="text/html" title="Using Cte To Identify Best Industries By Number Of Unicorns" /><published>2023-09-16T00:00:00-07:00</published><updated>2023-09-16T00:00:00-07:00</updated><id>https://vaideheebhise.github.io/using-cte-to-identify-best-industries-by-number-of-unicorns</id><content type="html" xml:base="https://vaideheebhise.github.io/using-cte-to-identify-best-industries-by-number-of-unicorns/">&lt;p&gt;
+&lt;iframe seamless=&quot;&quot; frameborder=&quot;0&quot; src=&quot;https://public.tableau.com/views/foodclaims_time_to_closevslocationplot/Sheet5?:embed=yes&amp;amp;:display_count=yes&amp;amp;:showVizHome=no&quot; width=&quot;1000&quot; height=&quot;650&quot; scrolling=&quot;yes&quot;&gt;&lt;/iframe&gt;</content><author><name>Vaidehee Bhise</name><email>vaidehibhise94@gmail.com</email></author><summary type="html">In this project i have worked on a fast food chain in Brazil named vivendo with over 200 outlets. Customers often claim compensation from the company for food poisoning. The legal team processes these claims. The legal team has offices in four locations. The legal team wants to improve how long it takes to reply to customers and close claims. The analysis is provided for the legal team as team wants to improve the time it takes to reply to customers and close the claims. I used pgadmin for validation and cleaning of data. Tableau is used for the data visualization purpose.Here i listed each task performed in the question, answer format.</summary></entry><entry><title type="html">Using Cte To Identify Best Industries By Number Of Unicorns</title><link href="http://localhost:4000/using-cte-to-identify-best-industries-by-number-of-unicorns/" rel="alternate" type="text/html" title="Using Cte To Identify Best Industries By Number Of Unicorns" /><published>2023-09-16T00:00:00-07:00</published><updated>2023-09-16T00:00:00-07:00</updated><id>http://localhost:4000/using-cte-to-identify-best-industries-by-number-of-unicorns</id><content type="html" xml:base="http://localhost:4000/using-cte-to-identify-best-industries-by-number-of-unicorns/">&lt;p&gt;
 In this project, I will be working with data from investment firm to analyze trends in high-growth companies. The goal is to identify industries which are producing the highest valuations and the rate at which new high-value companies are emerging. This data will provide insightful information to give investment firms a competitive insight about the ongoing industry trends and how they should structure their portfolio looking forward.
 &lt;/p&gt;
 
@@ -136,7 +136,7 @@ yearly ranking and then based on data I will write a query which  will give top 
 	&lt;span class=&quot;n&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;industries&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;AS&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;
 	&lt;span class=&quot;n&quot;&gt;INNER&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;JOIN&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;dates&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;AS&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;d&lt;/span&gt;
 	&lt;span class=&quot;n&quot;&gt;ON&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;company_id&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;d&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;company_id&lt;/span&gt;
-	&lt;span class=&quot;n&quot;&gt;WHERE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;EXTRACT&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;year&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;d&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;date_joined&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;IN&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&apos;2019&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&apos;2020&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&apos;2021&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+	&lt;span class=&quot;n&quot;&gt;WHERE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;EXTRACT&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;year&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;d&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;date_joined&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;IN&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'2019'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'2020'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'2021'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 	&lt;span class=&quot;n&quot;&gt;GROUP&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;BY&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;industry&lt;/span&gt;
 	&lt;span class=&quot;n&quot;&gt;ORDER&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;BY&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;company_count&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;DESC&lt;/span&gt;
 	&lt;span class=&quot;n&quot;&gt;limit&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;
@@ -252,7 +252,7 @@ yearly ranking and then based on data I will write a query which  will give top 
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;/div&gt;</content><author><name>Vaidehee Bhise</name><email>vaidehibhise94@gmail.com</email></author><summary type="html">In this project, I will be working with data from investment firm to analyze trends in high-growth companies. The goal is to identify industries which are producing the highest valuations and the rate at which new high-value companies are emerging. This data will provide insightful information to give investment firms a competitive insight about the ongoing industry trends and how they should structure their portfolio looking forward.</summary></entry><entry><title type="html">Importing Data From Csv Into Postgresql Using Pandas</title><link href="https://vaideheebhise.github.io/Importing-data-from-csv-into-postgresql-using-pandas/" rel="alternate" type="text/html" title="Importing Data From Csv Into Postgresql Using Pandas" /><published>2023-09-14T00:00:00-07:00</published><updated>2023-09-14T00:00:00-07:00</updated><id>https://vaideheebhise.github.io/Importing-data-from-csv-into-postgresql-using-pandas</id><content type="html" xml:base="https://vaideheebhise.github.io/Importing-data-from-csv-into-postgresql-using-pandas/">&lt;p&gt;
+&lt;/div&gt;</content><author><name>Vaidehee Bhise</name><email>vaidehibhise94@gmail.com</email></author><summary type="html">In this project, I will be working with data from investment firm to analyze trends in high-growth companies. The goal is to identify industries which are producing the highest valuations and the rate at which new high-value companies are emerging. This data will provide insightful information to give investment firms a competitive insight about the ongoing industry trends and how they should structure their portfolio looking forward.</summary></entry><entry><title type="html">Importing Data From Csv Into Postgresql Using Pandas</title><link href="http://localhost:4000/Importing-data-from-csv-into-postgresql-using-pandas/" rel="alternate" type="text/html" title="Importing Data From Csv Into Postgresql Using Pandas" /><published>2023-09-14T00:00:00-07:00</published><updated>2023-09-14T00:00:00-07:00</updated><id>http://localhost:4000/Importing-data-from-csv-into-postgresql-using-pandas</id><content type="html" xml:base="http://localhost:4000/Importing-data-from-csv-into-postgresql-using-pandas/">&lt;p&gt;
 In this tutorial I share how to import csv data files into a locally running
 postgresql on a docker container using python libraries pandas, sqlalchemy
 &lt;/p&gt;
@@ -273,7 +273,7 @@ postgresql on a docker container using python libraries pandas, sqlalchemy
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;p&gt;Store your downloaded csv file in some folder and get the filepath. Now we wll read the the  csv datafile into dataframe from the stored file path&lt;/p&gt;
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;df = pd.read_csv(r&apos;FILEPATH/artists.csv&apos;)
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;df = pd.read_csv(r'FILEPATH/artists.csv')
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;Now we have the csv data in dataframe, lets verify that.&lt;/p&gt;
@@ -297,12 +297,12 @@ Out[62]:
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;After importing the function we will be creating an connection by providing variables as database type, username, password and database name to the function&lt;/p&gt;
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;engine = create_engine(&apos;postgresql://username:add_your_db_password@localhost:5432/database_name&apos;)&apos;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;engine = create_engine('postgresql://username:add_your_db_password@localhost:5432/database_name')'
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;Then we will be importing the datframe to postgresql database table using &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;to_sql&lt;/code&gt; function, where we need to provid Table name and the engine as parameters/variables.&lt;/p&gt;
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;	 df.to_sql(&apos;artworks&apos;, engine)
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;	 df.to_sql('artworks', engine)
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;Now we have all our data inside artworks table. We have sucessfully imported an csv datafile to posgresql database. Now we will be querying our data for verification purpose.&lt;/p&gt;
@@ -323,7 +323,7 @@ Out[62]:
 
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;This way you can easily import data into postgresql using pandas from a csv file. There is additional data manipulation which can be done,  like changing column names, cleaning data, but that’s for another tutorial.&lt;/p&gt;</content><author><name>Vaidehee Bhise</name><email>vaidehibhise94@gmail.com</email></author><summary type="html">In this tutorial I share how to import csv data files into a locally running postgresql on a docker container using python libraries pandas, sqlalchemy</summary></entry><entry><title type="html">Seattle Airbnb Data Visualization Using Tableau</title><link href="https://vaideheebhise.github.io/seattle-airbnb-data-visualization-using-tableau/" rel="alternate" type="text/html" title="Seattle Airbnb Data Visualization Using Tableau" /><published>2023-09-13T00:00:00-07:00</published><updated>2023-09-13T00:00:00-07:00</updated><id>https://vaideheebhise.github.io/seattle-airbnb-data-visualization-using-tableau</id><content type="html" xml:base="https://vaideheebhise.github.io/seattle-airbnb-data-visualization-using-tableau/">&lt;p&gt;In this project, I used 2016 airbnb data from seattle and visualize it using Tableau to get deeper insights into pricing trends. &lt;/p&gt;
+&lt;p&gt;This way you can easily import data into postgresql using pandas from a csv file. There is additional data manipulation which can be done,  like changing column names, cleaning data, but that’s for another tutorial.&lt;/p&gt;</content><author><name>Vaidehee Bhise</name><email>vaidehibhise94@gmail.com</email></author><summary type="html">In this tutorial I share how to import csv data files into a locally running postgresql on a docker container using python libraries pandas, sqlalchemy</summary></entry><entry><title type="html">Seattle Airbnb Data Visualization Using Tableau</title><link href="http://localhost:4000/seattle-airbnb-data-visualization-using-tableau/" rel="alternate" type="text/html" title="Seattle Airbnb Data Visualization Using Tableau" /><published>2023-09-13T00:00:00-07:00</published><updated>2023-09-13T00:00:00-07:00</updated><id>http://localhost:4000/seattle-airbnb-data-visualization-using-tableau</id><content type="html" xml:base="http://localhost:4000/seattle-airbnb-data-visualization-using-tableau/">&lt;p&gt;In this project, I used 2016 airbnb data from seattle and visualize it using Tableau to get deeper insights into pricing trends. &lt;/p&gt;
 
 &lt;h3 id=&quot;skills--tableau-sql-visulization-data-exlporation-data-cleaning&quot;&gt;Skills : Tableau, SQL, Visulization, Data Exlporation, Data Cleaning&lt;/h3&gt;
 
@@ -335,7 +335,7 @@ Out[62]:
   &lt;li&gt;Distinct count of bedroom listings`&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;iframe seamless=&quot;&quot; frameborder=&quot;0&quot; src=&quot;https://public.tableau.com/views/AirbnbFullproject_16917135159280/SeattlePricingTrendDashboard2016?:embed=yes&amp;amp;:display_count=yes&amp;amp;:showVizHome=no&quot; width=&quot;1000&quot; height=&quot;650&quot; scrolling=&quot;yes&quot;&gt;&lt;/iframe&gt;</content><author><name>Vaidehee Bhise</name><email>vaidehibhise94@gmail.com</email></author><summary type="html">In this project, I used 2016 airbnb data from seattle and visualize it using Tableau to get deeper insights into pricing trends.</summary></entry><entry><title type="html">Baby Names</title><link href="https://vaideheebhise.github.io/baby-names/" rel="alternate" type="text/html" title="Baby Names" /><published>2023-09-11T00:00:00-07:00</published><updated>2023-09-11T00:00:00-07:00</updated><id>https://vaideheebhise.github.io/baby-names</id><content type="html" xml:base="https://vaideheebhise.github.io/baby-names/">&lt;p&gt;In this project I have worked with data provided by the United States Social Security Administration, which lists first names along with the number and sex of babies they were given to in each year. For processing speed purposes, we&apos;ve limited the dataset to first names which were given to over 5,000 American babies in a given year. Our data spans 101 years, from 1920 through 2020.&lt;/p&gt;
+&lt;iframe seamless=&quot;&quot; frameborder=&quot;0&quot; src=&quot;https://public.tableau.com/views/AirbnbFullproject_16917135159280/SeattlePricingTrendDashboard2016?:embed=yes&amp;amp;:display_count=yes&amp;amp;:showVizHome=no&quot; width=&quot;1000&quot; height=&quot;650&quot; scrolling=&quot;yes&quot;&gt;&lt;/iframe&gt;</content><author><name>Vaidehee Bhise</name><email>vaidehibhise94@gmail.com</email></author><summary type="html">In this project, I used 2016 airbnb data from seattle and visualize it using Tableau to get deeper insights into pricing trends.</summary></entry><entry><title type="html">Baby Names</title><link href="http://localhost:4000/baby-names/" rel="alternate" type="text/html" title="Baby Names" /><published>2023-09-11T00:00:00-07:00</published><updated>2023-09-11T00:00:00-07:00</updated><id>http://localhost:4000/baby-names</id><content type="html" xml:base="http://localhost:4000/baby-names/">&lt;p&gt;In this project I have worked with data provided by the United States Social Security Administration, which lists first names along with the number and sex of babies they were given to in each year. For processing speed purposes, we've limited the dataset to first names which were given to over 5,000 American babies in a given year. Our data spans 101 years, from 1920 through 2020.&lt;/p&gt;
 
 &lt;h3 id=&quot;skills---sql-data-exploration-data-cleaning-and-manipulation&quot;&gt;Skills :  SQL, Data Exploration, Data Cleaning and Manipulation&lt;/h3&gt;
 
@@ -373,7 +373,7 @@ Out[62]:
 &lt;/table&gt;
 
 &lt;h2 id=&quot;1-classic-american-names&quot;&gt;1. Classic American names&lt;/h2&gt;
-&lt;p&gt;Let&apos;s get oriented to American baby name tastes by looking at the names that have stood the test of time!&lt;/p&gt;
+&lt;p&gt;Let's get oriented to American baby name tastes by looking at the names that have stood the test of time!&lt;/p&gt;
 
 &lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;o&quot;&gt;%%&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;sql&lt;/span&gt;
 &lt;span class=&quot;n&quot;&gt;postgresql&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;///&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;names&lt;/span&gt;
@@ -442,16 +442,16 @@ Out[62]:
 
 &lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;o&quot;&gt;%%&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;sql&lt;/span&gt;
 
-&lt;span class=&quot;c1&quot;&gt;-- Classify first names as &apos;Classic&apos;, &apos;Semi-classic&apos;, &apos;Semi-trendy&apos;, or &apos;Trendy&apos;&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;-- Classify first names as 'Classic', 'Semi-classic', 'Semi-trendy', or 'Trendy'&lt;/span&gt;
 &lt;span class=&quot;c1&quot;&gt;-- Alias this column as popularity_type&lt;/span&gt;
 &lt;span class=&quot;c1&quot;&gt;-- Select first_name, the sum of babies who have ever had that name, and popularity_type&lt;/span&gt;
 &lt;span class=&quot;c1&quot;&gt;-- Order the results alphabetically by first_name&lt;/span&gt;
 
 &lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;first_name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;SUM&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;num&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;CASE&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;WHEN&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;COUNT&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;year&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;90&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;THEN&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&apos;Classic&apos;&lt;/span&gt;
-         &lt;span class=&quot;k&quot;&gt;WHEN&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;COUNT&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;year&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;40&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;THEN&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&apos;Semi-classic&apos;&lt;/span&gt;
-         &lt;span class=&quot;k&quot;&gt;WHEN&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;COUNT&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;year&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;10&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;THEN&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&apos;Semi-trendy&apos;&lt;/span&gt;
-        &lt;span class=&quot;k&quot;&gt;ELSE&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&apos;Trendy&apos;&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;END&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;AS&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;popularity_type&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;CASE&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;WHEN&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;COUNT&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;year&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;90&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;THEN&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'Classic'&lt;/span&gt;
+         &lt;span class=&quot;k&quot;&gt;WHEN&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;COUNT&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;year&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;40&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;THEN&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'Semi-classic'&lt;/span&gt;
+         &lt;span class=&quot;k&quot;&gt;WHEN&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;COUNT&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;year&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;10&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;THEN&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'Semi-trendy'&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;ELSE&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'Trendy'&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;END&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;AS&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;popularity_type&lt;/span&gt;
 &lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;baby_names&lt;/span&gt;
 &lt;span class=&quot;k&quot;&gt;GROUP&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;BY&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;first_name&lt;/span&gt;
 &lt;span class=&quot;k&quot;&gt;ORDER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;BY&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;first_name&lt;/span&gt;
@@ -534,7 +534,7 @@ Out[62]:
 
 &lt;span class=&quot;c1&quot;&gt;-- RANK names by the sum of babies who have ever had that name (descending), aliasing as name_rank&lt;/span&gt;
 &lt;span class=&quot;c1&quot;&gt;-- Select name_rank, first_name, and the sum of babies who have ever had that name&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;-- Filter the data for results where sex equals &apos;F&apos;&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;-- Filter the data for results where sex equals 'F'&lt;/span&gt;
 &lt;span class=&quot;c1&quot;&gt;-- Limit to ten results&lt;/span&gt;
 
 &lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt;
@@ -542,7 +542,7 @@ Out[62]:
     &lt;span class=&quot;n&quot;&gt;first_name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
     &lt;span class=&quot;k&quot;&gt;sum&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;num&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 &lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;baby_names&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;WHERE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;sex&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&apos;F&apos;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;WHERE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;sex&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'F'&lt;/span&gt;
 &lt;span class=&quot;k&quot;&gt;GROUP&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;BY&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;first_name&lt;/span&gt;
 &lt;span class=&quot;k&quot;&gt;LIMIT&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;10&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
 
@@ -616,15 +616,15 @@ Out[62]:
 
 &lt;h2 id=&quot;4-picking-a-baby-name&quot;&gt;4. Picking a baby name&lt;/h2&gt;
 
-&lt;p&gt;We are analyzing the data for traditionally female name ending with the letter &apos;a&apos; and a name that has been popular in the years since 2015. &lt;/p&gt;
+&lt;p&gt;We are analyzing the data for traditionally female name ending with the letter 'a' and a name that has been popular in the years since 2015. &lt;/p&gt;
 
 &lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;o&quot;&gt;%%&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;sql&lt;/span&gt;
 &lt;span class=&quot;c1&quot;&gt;-- Select only the first_name column&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;-- Filter for results where sex is &apos;F&apos;, year is greater than 2015, and first_name ends in &apos;a&apos;&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;-- Filter for results where sex is 'F', year is greater than 2015, and first_name ends in 'a'&lt;/span&gt;
 &lt;span class=&quot;c1&quot;&gt;-- Group by first_name and order by the total number of babies given that first_name&lt;/span&gt;
 &lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;first_name&lt;/span&gt;
 &lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;baby_names&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;WHERE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;sex&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&apos;F&apos;&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;AND&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;year&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2015&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;AND&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;first_name&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;LIKE&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&apos;%a&apos;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;WHERE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;sex&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'F'&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;AND&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;year&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2015&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;AND&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;first_name&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;LIKE&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'%a'&lt;/span&gt;
 &lt;span class=&quot;k&quot;&gt;GROUP&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;BY&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;first_name&lt;/span&gt;
 &lt;span class=&quot;k&quot;&gt;ORDER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;BY&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;SUM&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;num&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;DESC&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
@@ -701,7 +701,7 @@ Out[62]:
 &lt;/table&gt;
 
 &lt;h2 id=&quot;5-the-olivia-expansion&quot;&gt;5. The Olivia expansion&lt;/h2&gt;
-&lt;p&gt;Based on the results in the previous task, Olivia is the most popular female name ending in &apos;A&apos; since 2015. In the next step we will analyze when did the name Olivia become so popular?&lt;/p&gt;
+&lt;p&gt;Based on the results in the previous task, Olivia is the most popular female name ending in 'A' since 2015. In the next step we will analyze when did the name Olivia become so popular?&lt;/p&gt;
 &lt;p&gt;The rise of the name Olivia is explored with the help of a window function.&lt;/p&gt;
 
 &lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;o&quot;&gt;%%&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;sql&lt;/span&gt;
@@ -714,7 +714,7 @@ Out[62]:
 &lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;year&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;first_name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;num&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
     &lt;span class=&quot;k&quot;&gt;SUM&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;num&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;OVER&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;ORDER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;BY&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;year&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;AS&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;cumulative_olivias&lt;/span&gt;
 &lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;baby_names&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;WHERE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;first_name&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&apos;Olivia&apos;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;WHERE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;first_name&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'Olivia'&lt;/span&gt;
 &lt;span class=&quot;k&quot;&gt;ORDER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;BY&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;year&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;ASC&lt;/span&gt;
 &lt;span class=&quot;k&quot;&gt;LIMIT&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;10&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
 
@@ -918,17 +918,17 @@ Out[62]:
 &lt;/table&gt;
 
 &lt;h2 id=&quot;6-many-males-with-the-same-name&quot;&gt;6. Many males with the same name&lt;/h2&gt;
-&lt;p&gt;In the next task, Let&apos;s take a look at traditionally male names. We saw in the first task that there are nine traditionally male names given to at least 5,000 babies every single year in our 101-year dataset! &lt;/p&gt;
+&lt;p&gt;In the next task, Let's take a look at traditionally male names. We saw in the first task that there are nine traditionally male names given to at least 5,000 babies every single year in our 101-year dataset! &lt;/p&gt;
 &lt;p&gt;In the next two tasks, we will build up to listing every year along with the most popular male name in that year. This presents a common problem: how do we find the greatest X in a group? Or, in the context of this problem, how do we find the male name given to the highest number of babies in a year? &lt;/p&gt;
 &lt;p&gt; Subquery can be used in the query.  first query is written that selects the &lt;code&gt;year&lt;/code&gt; and the maximum &lt;code&gt;num&lt;/code&gt; of babies given any single male name in that year. For example, in 1989, the male name given to the highest number of babies was given to 65,339 babies. This query is written in this task. &lt;/p&gt;
 
 &lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;o&quot;&gt;%%&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;sql&lt;/span&gt;
 
 &lt;span class=&quot;c1&quot;&gt;-- Select year and maximum number of babies given any one male name in that year, aliased as max_num&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;-- Filter the data to include only results where sex equals &apos;M&apos;&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;-- Filter the data to include only results where sex equals 'M'&lt;/span&gt;
 &lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;year&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;MAX&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;num&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;max_num&lt;/span&gt;
 &lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;baby_names&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;WHERE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;sex&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&apos;M&apos;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;WHERE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;sex&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'M'&lt;/span&gt;
 &lt;span class=&quot;k&quot;&gt;GROUP&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;BY&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;year&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
@@ -1366,7 +1366,7 @@ Out[62]:
 &lt;span class=&quot;k&quot;&gt;INNER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;JOIN&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
     &lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;year&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;MAX&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;num&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;max_num&lt;/span&gt;
     &lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;baby_names&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;WHERE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;sex&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&apos;M&apos;&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;WHERE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;sex&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'M'&lt;/span&gt;
     &lt;span class=&quot;k&quot;&gt;GROUP&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;BY&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;year&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;AS&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;new_subquery&lt;/span&gt;
 &lt;span class=&quot;k&quot;&gt;ON&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;new_subquery&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;year&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;year&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;AND&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;new_subquery&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;max_num&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;num&lt;/span&gt;
 &lt;span class=&quot;k&quot;&gt;ORDER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;BY&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;year&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;DESC&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
@@ -1895,7 +1895,7 @@ Out[62]:
 &lt;/table&gt;
 
 &lt;h2 id=&quot;8-the-most-years-at-number-one&quot;&gt;8. The most years at number one&lt;/h2&gt;
-&lt;p&gt;Noah and Liam have ruled the roost in the last few years, but if we scroll down in the results, it looks like Michael and Jacob have also spent a good number of years as the top name! Which name has been number one for the largest number of years? Let&apos;s use a common table expression to find out. &lt;/p&gt;
+&lt;p&gt;Noah and Liam have ruled the roost in the last few years, but if we scroll down in the results, it looks like Michael and Jacob have also spent a good number of years as the top name! Which name has been number one for the largest number of years? Let's use a common table expression to find out. &lt;/p&gt;
 
 &lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;o&quot;&gt;%%&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;sql&lt;/span&gt;
 
@@ -1909,7 +1909,7 @@ Out[62]:
     &lt;span class=&quot;k&quot;&gt;INNER&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;JOIN&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
         &lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;year&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;MAX&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;num&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;max_num&lt;/span&gt;
         &lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;baby_names&lt;/span&gt;
-        &lt;span class=&quot;k&quot;&gt;WHERE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;sex&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&apos;M&apos;&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;WHERE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;sex&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'M'&lt;/span&gt;
         &lt;span class=&quot;k&quot;&gt;GROUP&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;BY&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;year&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;AS&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;new_subquery&lt;/span&gt;
     &lt;span class=&quot;k&quot;&gt;ON&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;new_subquery&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;year&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;year&lt;/span&gt;
     &lt;span class=&quot;k&quot;&gt;AND&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;new_subquery&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;max_num&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;num&lt;/span&gt;
@@ -1966,9 +1966,9 @@ Out[62]:
             &lt;td&gt;1&lt;/td&gt;
         &lt;/tr&gt;
     &lt;/tbody&gt;
-&lt;/table&gt;</content><author><name>Vaidehee Bhise</name><email>vaidehibhise94@gmail.com</email></author><summary type="html">In this project I have worked with data provided by the United States Social Security Administration, which lists first names along with the number and sex of babies they were given to in each year. For processing speed purposes, we&apos;ve limited the dataset to first names which were given to over 5,000 American babies in a given year. Our data spans 101 years, from 1920 through 2020.</summary></entry><entry><title type="html">Best selling video games</title><link href="https://vaideheebhise.github.io/posts/2023/09/video-games" rel="alternate" type="text/html" title="Best selling video games" /><published>2023-09-07T00:00:00-07:00</published><updated>2023-09-07T00:00:00-07:00</updated><id>https://vaideheebhise.github.io/posts/2023/09/best-selling-video-games</id><content type="html" xml:base="https://vaideheebhise.github.io/posts/2023/09/video-games">&lt;p&gt;In this project, we&apos;ll explore the top 400 best-selling video games created between 1977 and 2020. We&apos;ll compare a dataset on game sales with critic and user reviews to determine whether or not video games have improved as the gaming market has grown.&lt;/p&gt;
+&lt;/table&gt;</content><author><name>Vaidehee Bhise</name><email>vaidehibhise94@gmail.com</email></author><summary type="html">In this project I have worked with data provided by the United States Social Security Administration, which lists first names along with the number and sex of babies they were given to in each year. For processing speed purposes, we've limited the dataset to first names which were given to over 5,000 American babies in a given year. Our data spans 101 years, from 1920 through 2020.</summary></entry><entry><title type="html">Best selling video games</title><link href="http://localhost:4000/posts/2023/09/video-games" rel="alternate" type="text/html" title="Best selling video games" /><published>2023-09-07T00:00:00-07:00</published><updated>2023-09-07T00:00:00-07:00</updated><id>http://localhost:4000/posts/2023/09/best-selling-video-games</id><content type="html" xml:base="http://localhost:4000/posts/2023/09/video-games">&lt;p&gt;In this project, we'll explore the top 400 best-selling video games created between 1977 and 2020. We'll compare a dataset on game sales with critic and user reviews to determine whether or not video games have improved as the gaming market has grown.&lt;/p&gt;
 
-&lt;p&gt;Let&apos;s begin by looking at some of the top selling video games of all time!&lt;/p&gt;
+&lt;p&gt;Let's begin by looking at some of the top selling video games of all time!&lt;/p&gt;
 
 &lt;h3 id=&quot;skills---sql-data-exploration-data-cleaning-sql-join-sql-sub-query&quot;&gt;Skills :  SQL, Data Exploration, Data cleaning, SQL Join, SQL Sub query&lt;/h3&gt;
 
@@ -2080,8 +2080,8 @@ Out[62]:
 &lt;/table&gt;
 
 &lt;h2 id=&quot;2-missing-review-scores&quot;&gt;2. Missing review scores&lt;/h2&gt;
-&lt;p&gt;Wow, the best-selling video games were released between 1985 to 2017! That&apos;s quite a range; we&apos;ll have to use data from the &lt;code&gt;reviews&lt;/code&gt; table to gain more insight on the best years for video games. &lt;/p&gt;
-&lt;p&gt;First, it&apos;s important to explore the limitations of our database. One big shortcoming is that there is not any &lt;code&gt;reviews&lt;/code&gt; data for some of the games on the &lt;code&gt;game_sales&lt;/code&gt; table. &lt;/p&gt;
+&lt;p&gt;Wow, the best-selling video games were released between 1985 to 2017! That's quite a range; we'll have to use data from the &lt;code&gt;reviews&lt;/code&gt; table to gain more insight on the best years for video games. &lt;/p&gt;
+&lt;p&gt;First, it's important to explore the limitations of our database. One big shortcoming is that there is not any &lt;code&gt;reviews&lt;/code&gt; data for some of the games on the &lt;code&gt;game_sales&lt;/code&gt; table. &lt;/p&gt;
 
 &lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;o&quot;&gt;%%&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;sql&lt;/span&gt; 
 
@@ -2111,8 +2111,8 @@ Out[62]:
 &lt;/table&gt;
 
 &lt;h2 id=&quot;3-years-that-video-game-critics-loved&quot;&gt;3. Years that video game critics loved&lt;/h2&gt;
-&lt;p&gt;It looks like a little less than ten percent of the games on the &lt;code&gt;game_sales&lt;/code&gt; table don&apos;t have any reviews data. That&apos;s a small enough percentage that we can continue our exploration, but the missing reviews data is a good thing to keep in mind as we move on to evaluating results from more sophisticated queries. &lt;/p&gt;
-&lt;p&gt;There are lots of ways to measure the best years for video games! Let&apos;s start with what the critics think. &lt;/p&gt;
+&lt;p&gt;It looks like a little less than ten percent of the games on the &lt;code&gt;game_sales&lt;/code&gt; table don't have any reviews data. That's a small enough percentage that we can continue our exploration, but the missing reviews data is a good thing to keep in mind as we move on to evaluating results from more sophisticated queries. &lt;/p&gt;
+&lt;p&gt;There are lots of ways to measure the best years for video games! Let's start with what the critics think. &lt;/p&gt;
 
 &lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;o&quot;&gt;%%&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;sql&lt;/span&gt;
 
@@ -2186,8 +2186,8 @@ Out[62]:
 
 &lt;h2 id=&quot;4-was-1982-really-that-great&quot;&gt;4. Was 1982 really that great?&lt;/h2&gt;
 &lt;p&gt;The range of great years according to critic reviews goes from 1982 until 2020: we are no closer to finding the golden age of video games! &lt;/p&gt;
-&lt;p&gt;Hang on, though. Some of those &lt;code&gt;avg_critic_score&lt;/code&gt; values look like suspiciously round numbers for averages. The value for 1982 looks especially fishy. Maybe there weren&apos;t a lot of video games in our dataset that were released in certain years. &lt;/p&gt;
-&lt;p&gt;Let&apos;s update our query and find out whether 1982 really was such a great year for video games.&lt;/p&gt;
+&lt;p&gt;Hang on, though. Some of those &lt;code&gt;avg_critic_score&lt;/code&gt; values look like suspiciously round numbers for averages. The value for 1982 looks especially fishy. Maybe there weren't a lot of video games in our dataset that were released in certain years. &lt;/p&gt;
+&lt;p&gt;Let's update our query and find out whether 1982 really was such a great year for video games.&lt;/p&gt;
 
 &lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;o&quot;&gt;%%&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;sql&lt;/span&gt; 
 
@@ -2269,8 +2269,8 @@ Out[62]:
 &lt;/table&gt;
 
 &lt;h2 id=&quot;5-years-that-dropped-off-the-critics-favorites-list&quot;&gt;5. Years that dropped off the critics’ favorites list&lt;/h2&gt;
-&lt;p&gt;That looks better! The &lt;code&gt;num_games&lt;/code&gt; column convinces us that our new list of the critics&apos; top games reflects years that had quite a few well-reviewed games rather than just one or two hits. But which years dropped off the list due to having four or fewer reviewed games? Let&apos;s identify them so that someday we can track down more game reviews for those years and determine whether they might rightfully be considered as excellent years for video game releases!&lt;/p&gt;
-&lt;p&gt;It&apos;s time to brush off your set theory skills. To get started, we&apos;ve created tables with the results of our previous two queries:&lt;/p&gt;
+&lt;p&gt;That looks better! The &lt;code&gt;num_games&lt;/code&gt; column convinces us that our new list of the critics' top games reflects years that had quite a few well-reviewed games rather than just one or two hits. But which years dropped off the list due to having four or fewer reviewed games? Let's identify them so that someday we can track down more game reviews for those years and determine whether they might rightfully be considered as excellent years for video game releases!&lt;/p&gt;
+&lt;p&gt;It's time to brush off your set theory skills. To get started, we've created tables with the results of our previous two queries:&lt;/p&gt;
 &lt;h3 id=&quot;top_critic_years&quot;&gt;&lt;code&gt;top_critic_years&lt;/code&gt;&lt;/h3&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -2371,8 +2371,8 @@ Out[62]:
 &lt;/table&gt;
 
 &lt;h2 id=&quot;6-years-video-game-players-loved&quot;&gt;6. Years video game players loved&lt;/h2&gt;
-&lt;p&gt;Based on our work in the task above, it looks like the early 1990s might merit consideration as the golden age of video games based on &lt;code&gt;critic_score&lt;/code&gt; alone, but we&apos;d need to gather more games and reviews data to do further analysis. &lt;/p&gt;
-&lt;p&gt;Let&apos;s move on to looking at the opinions of another important group of people: players! To begin, let&apos;s create a query very similar to the one we used in Task Four, except this one will look at &lt;code&gt;user_score&lt;/code&gt; averages by year rather than &lt;code&gt;critic_score&lt;/code&gt; averages.&lt;/p&gt;
+&lt;p&gt;Based on our work in the task above, it looks like the early 1990s might merit consideration as the golden age of video games based on &lt;code&gt;critic_score&lt;/code&gt; alone, but we'd need to gather more games and reviews data to do further analysis. &lt;/p&gt;
+&lt;p&gt;Let's move on to looking at the opinions of another important group of people: players! To begin, let's create a query very similar to the one we used in Task Four, except this one will look at &lt;code&gt;user_score&lt;/code&gt; averages by year rather than &lt;code&gt;critic_score&lt;/code&gt; averages.&lt;/p&gt;
 
 &lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;o&quot;&gt;%%&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;sql&lt;/span&gt; 
 
@@ -2458,7 +2458,7 @@ Out[62]:
 &lt;/table&gt;
 
 &lt;h2 id=&quot;7-years-that-both-players-and-critics-loved&quot;&gt;7. Years that both players and critics loved&lt;/h2&gt;
-&lt;p&gt;Alright, we&apos;ve got a list of the top ten years according to both critic reviews and user reviews. Are there any years that showed up on both tables? If so, those years would certainly be excellent ones!&lt;/p&gt;
+&lt;p&gt;Alright, we've got a list of the top ten years according to both critic reviews and user reviews. Are there any years that showed up on both tables? If so, those years would certainly be excellent ones!&lt;/p&gt;
 &lt;p&gt;Recall that we have access to the &lt;code&gt;top_critic_years_more_than_four_games&lt;/code&gt; table, which stores the results of our top critic years query from Task 4:&lt;/p&gt;
 &lt;h3 id=&quot;top_critic_years_more_than_four_games&quot;&gt;&lt;code&gt;top_critic_years_more_than_four_games&lt;/code&gt;&lt;/h3&gt;
 &lt;table&gt;
@@ -2487,7 +2487,7 @@ Out[62]:
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;We&apos;ve also saved the results of our top user years query from the previous task into a table:&lt;/p&gt;
+&lt;p&gt;We've also saved the results of our top user years query from the previous task into a table:&lt;/p&gt;
 &lt;h3 id=&quot;top_user_years_more_than_four_games&quot;&gt;&lt;code&gt;top_user_years_more_than_four_games&lt;/code&gt;&lt;/h3&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -2547,8 +2547,8 @@ Out[62]:
 &lt;/table&gt;
 
 &lt;h2 id=&quot;8-sales-in-the-best-video-game-years&quot;&gt;8. Sales in the best video game years&lt;/h2&gt;
-&lt;p&gt;Looks like we&apos;ve got three years that both users and critics agreed were in the top ten! There are many other ways of measuring what the best years for video games are, but let&apos;s stick with these years for now. We know that critics and players liked these years, but what about video game makers? Were sales good? Let&apos;s find out.&lt;/p&gt;
-&lt;p&gt;This time, we haven&apos;t saved the results from the previous task in a table for you. Instead, we&apos;ll use the query from the previous task as a subquery in this one! This is a great skill to have, as we don&apos;t always have write permissions on the database we are querying.&lt;/p&gt;
+&lt;p&gt;Looks like we've got three years that both users and critics agreed were in the top ten! There are many other ways of measuring what the best years for video games are, but let's stick with these years for now. We know that critics and players liked these years, but what about video game makers? Were sales good? Let's find out.&lt;/p&gt;
+&lt;p&gt;This time, we haven't saved the results from the previous task in a table for you. Instead, we'll use the query from the previous task as a subquery in this one! This is a great skill to have, as we don't always have write permissions on the database we are querying.&lt;/p&gt;
 
 &lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;o&quot;&gt;%%&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;sql&lt;/span&gt; 
 
@@ -2593,4 +2593,4 @@ Out[62]:
         &lt;td&gt;2002&lt;/td&gt;
         &lt;td&gt;58.67&lt;/td&gt;
     &lt;/tr&gt;
-&lt;/table&gt;</content><author><name>Vaidehee Bhise</name><email>vaidehibhise94@gmail.com</email></author><category term="project" /><summary type="html">In this project, we&apos;ll explore the top 400 best-selling video games created between 1977 and 2020. We&apos;ll compare a dataset on game sales with critic and user reviews to determine whether or not video games have improved as the gaming market has grown.</summary></entry></feed>
+&lt;/table&gt;</content><author><name>Vaidehee Bhise</name><email>vaidehibhise94@gmail.com</email></author><category term="project" /><summary type="html">In this project, we'll explore the top 400 best-selling video games created between 1977 and 2020. We'll compare a dataset on game sales with critic and user reviews to determine whether or not video games have improved as the gaming market has grown.</summary></entry></feed>

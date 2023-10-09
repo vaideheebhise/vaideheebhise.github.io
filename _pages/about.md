@@ -9,8 +9,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi, This is Vaidehee. I'm a passionate data analyst, looking for entry level
-opportunities in Data domain. I want to utlize my skills as an analyst to solve 
+Hi, This is Vaidehee. I'm a certified data analyst associate, looking for entry level
+opportunities in Data domain as a data/business analyst. I want to utlize my skills as an analyst to solve 
 complex and challenging business problems and to provide insightful analytics
 which will help grow the organization. 
  
