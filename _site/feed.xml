@@ -1,4 +1,107 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://vaideheebhise.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://vaideheebhise.github.io/" rel="alternate" type="text/html" /><updated>2023-10-08T17:41:37-07:00</updated><id>https://vaideheebhise.github.io/feed.xml</id><title type="html">Vaidehee Bhise</title><subtitle>Vaidehee Bhise</subtitle><author><name>Vaidehee Bhise</name><email>vaidehibhise94@gmail.com</email></author><entry><title type="html">Vivendo Food Claim Case Study</title><link href="https://vaideheebhise.github.io/vivendo-food-claim-case-study/" rel="alternate" type="text/html" title="Vivendo Food Claim Case Study" /><published>2023-09-24T00:00:00-07:00</published><updated>2023-09-24T00:00:00-07:00</updated><id>https://vaideheebhise.github.io/vivendo-food-claim-case-study</id><content type="html" xml:base="https://vaideheebhise.github.io/vivendo-food-claim-case-study/">&lt;p&gt;In this project i have worked on a fast food chain in Brazil named vivendo with over 200 outlets. Customers often claim compensation from the company for food poisoning. The legal team processes these claims. The legal team has offices in four locations. The legal team wants to improve how long it takes to reply to customers and close claims.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://vaideheebhise.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://vaideheebhise.github.io/" rel="alternate" type="text/html" /><updated>2023-10-09T22:54:04-07:00</updated><id>https://vaideheebhise.github.io/feed.xml</id><title type="html">Vaidehee Bhise</title><subtitle>Vaidehee Bhise</subtitle><author><name>Vaidehee Bhise</name><email>vaidehibhise94@gmail.com</email></author><entry><title type="html">Healthcare Data Flu Shot Analysis Using Sql And Tableau</title><link href="https://vaideheebhise.github.io/healthcare-data-flu-shot-analysis-using-sql-and-tableau/" rel="alternate" type="text/html" title="Healthcare Data Flu Shot Analysis Using Sql And Tableau" /><published>2023-09-27T00:00:00-07:00</published><updated>2023-09-27T00:00:00-07:00</updated><id>https://vaideheebhise.github.io/healthcare-data-flu-shot-analysis-using-sql-and-tableau</id><content type="html" xml:base="https://vaideheebhise.github.io/healthcare-data-flu-shot-analysis-using-sql-and-tableau/">&lt;p&gt;In this project i have performed data analysis and visualization for healthcare system data of flu shots using SQL and Tableau.  Data is downloaded from synthea which is an open source platform for healthcare data. Using this data I will be summaryzing the flu shots analysis in 2022. I have designed and developed a flu shots dashboard which shows : &lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Total % of patients getting flu shots stratified by
+    &lt;ul&gt;
+      &lt;li&gt;Age&lt;/li&gt;
+      &lt;li&gt;Race&lt;/li&gt;
+      &lt;li&gt;County&lt;/li&gt;
+      &lt;li&gt;Overall&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Running Total of flu shots over the course of 2022&lt;/li&gt;
+  &lt;li&gt;Total number of flu shots given in 2022&lt;/li&gt;
+  &lt;li&gt;A list of patients that show whether or not they recieved the flu shots&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Data analysis and validation in SQL&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I have created 4 tables in psql databse which are conditions, immunizations, patients, encounter. All downloaded data is in .txt format and imported in these 4 tables respectively.
+The data was analysed, cleaned and validated using SQL in pgadmin. Following queries are written to get the final data file for the visualization purpose considering our objective.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Immunization table (CTE) will give me the information about flu vaccines from discription column, we are looking for the data of 2022 so we will be applying conndition accordingly.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;WITH flu_shot_2022 AS
+(
+SELECT patient, min(date) AS earliest_flu_shot_2022 
+FROM Immunizations 
+WHERE code  = '5302'
+     AND date BETWEEN '2022-01-01 00:00' and '2022-12-31 23:59'
+GROUP BY patient
+), 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The following CTE is giving us the active patients from 2020 to 2022 and is making sure the flu shot is given to patients with age &amp;gt;= 6.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;active_patients AS
+(
+	SELECT  DISTINCT patient, extract(year from age('2022-12-31',p.birthdate)) as age
+	FROM encounters AS enc
+	JOIN patients AS p
+	On enc.patient = p.id
+	WHERE start BETWEEN '2020-01-01 00:00' AND '2022-12-31 23:59'
+	AND p.deathdate is NULL
+	AND extract(year from age('2022-12-31',p.birthdate)) &amp;gt;= 6
+)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;This final query, uses the above CTEs and produces the final data output which will be the input data required for visualization.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;SELECT p.id,
+	   p.first,
+	   p.last,
+	   p.birthdate,
+	   p.race,
+	   p.county, 
+	   p.ethnicity,
+	   extract(year from age('2022-12-31',p.birthdate)) as age,
+	   flu.earliest_flu_shot_2022,
+	   flu.patient,
+	   case when flu.patient IS NOT NULL THEN 1
+	   ELSE 0
+	   END AS flu_shot_2022
+FROM patients AS p
+LEFT JOIN flu_shot_2022 AS flu
+ON p.id = flu.patient
+WHERE 1=1
+	AND p.id IN (SELECT patient FROM active_patients );
+	  
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;The data is then downloaded in csv format from the above query result table and given as input file to tableau for further visualization.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Data Visualization:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe seamless=&quot;&quot; frameborder=&quot;0&quot; src=&quot;https://public.tableau.com/views/SummaryHealthcareSystemFlushots2022-final1/Dashboard1?:embed=yes&amp;amp;:display_count=yes&amp;amp;:showVizHome=no&quot; width=&quot;1200&quot; height=&quot;800&quot; scrolling=&quot;yes&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;The dashboard gives us insight into summary of healthcare system for flu shots for Massachusetts in 2022. Each sheet of dashboard gives us the following insights.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Flu shots by Age&lt;/strong&gt;:
+This is the data plotted in 5 bins considering age of the patients. Each bar represent the percentage of flu shots recieved by patients in the different age groups.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Flu Shots by Race&lt;/strong&gt;:
+This plot represnt the flu shots recieved by patients considering race as factor. The plot gives the percentage of flu shots given to asian, black, hawaiian, native, other and white patiemts.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Flu shots % by county&lt;/strong&gt;:
+The map plot gives the actual percentage of flu shots recieved in different counties in Massachusetts.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Flu shots list&lt;/strong&gt;:
+This lists all the patients, along with their age, and highlights whether the patient received a flu shot or not. &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;1&lt;/code&gt; indicates the patient received the flut shot and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;0&lt;/code&gt; indicates the patient has not yet received the flu shot.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Running Sum of flu shots 2022&lt;/strong&gt;:
+This plot gives the area curve plot for running sum of number of patients who recied the flu shot every month.The plot shows trend  more patiennts have taken the flu shots at the end of 2022 during the winter. The plot shows the curve between number of patients and earliest shot taken that month of 2022.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;</content><author><name>Vaidehee Bhise</name><email>vaidehibhise94@gmail.com</email></author><summary type="html">In this project i have performed data analysis and visualization for healthcare system data of flu shots using SQL and Tableau. Data is downloaded from synthea which is an open source platform for healthcare data. Using this data I will be summaryzing the flu shots analysis in 2022. I have designed and developed a flu shots dashboard which shows :</summary></entry><entry><title type="html">Vivendo Food Claim Case Study</title><link href="https://vaideheebhise.github.io/vivendo-food-claim-case-study/" rel="alternate" type="text/html" title="Vivendo Food Claim Case Study" /><published>2023-09-24T00:00:00-07:00</published><updated>2023-09-24T00:00:00-07:00</updated><id>https://vaideheebhise.github.io/vivendo-food-claim-case-study</id><content type="html" xml:base="https://vaideheebhise.github.io/vivendo-food-claim-case-study/">&lt;p&gt;In this project i have worked on a fast food chain in Brazil named vivendo with over 200 outlets. Customers often claim compensation from the company for food poisoning. The legal team processes these claims. The legal team has offices in four locations. The legal team wants to improve how long it takes to reply to customers and close claims.
 The analysis is provided for the legal team as team wants to improve the time it takes to reply to customers and close the claims. I used pgadmin for validation and cleaning of data. Tableau is used for the data visualization purpose.Here i listed each task performed in the question, answer format.&lt;/p&gt;
 
 &lt;h3 id=&quot;skills--tableau-sql-excel-data-cleaning-data-exploration&quot;&gt;Skills : Tableau, SQL, Excel, Data cleaning, Data Exploration&lt;/h3&gt;
