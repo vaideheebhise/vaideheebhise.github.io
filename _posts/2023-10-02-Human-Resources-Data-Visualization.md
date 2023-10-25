@@ -2,7 +2,7 @@
 
 ### Skills : Tableau, SQL, Visulization, Data Exlporation, Data Cleaning
 
-This data analysis and visualization will help leadership team to have visibility on high level matrics about the state of its employees.
+This data analysis and visualization will help leadership team to have visibility on high level metrics about the state of its employees.
 
 Data exploration, cleaning and manipulation is performed on the downloaded data before using data for visualization inside tableau.
 
@@ -13,7 +13,7 @@ The HR data visualization provide insights into following areas:
 - Hiring trend of the company.
 - Recruitment source used by employees to get the job.
 - Diversity and inclusion for the company.
-- Departmentwise job positions and employee count.
+- Department wise job positions and employee count.
 
 
 
